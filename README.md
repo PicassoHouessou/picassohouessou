@@ -7,8 +7,9 @@ Software Engineer
 I'm Picasso Houessou, a Software Engineer skilled in Symfony and React. I enjoy building top-quality products and am proficient in Symfony and React. You can explore some of my projects here.
 
 *   🌍  I work remotely.
+*   🖥️ See my portfolio at [picassohouessou.com](https://picassohouessou.com.com)
 *   ✉️  You can contact me at [houessoupicasso@yahoo.fr](mailto:houessoupicasso@yahoo.fr)
-*   🤝  I'm open to collaborating on Technical blogs or any interesting products.
+*   🤝  I love sharing content about Freelance, remote work on my [blog](https://bloggux.com)
 
 ### Skills
 
