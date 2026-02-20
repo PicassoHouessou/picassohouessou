@@ -1,15 +1,21 @@
 Hello 👋 My name is Picasso
 =================================
 
-Software Engineer
------------------
+### **Software Engineer | Data Engineer | Technical Leader**
 
-I'm Picasso Houessou, a Software Engineer skilled in Symfony and React. I enjoy building top-quality products and am proficient in Symfony and React. You can explore some of my projects here.
+I am a results-driven professional with **4 years of experience**  at the intersection of technical excellence, leadership, and training. My background spans the entire development lifecycle, from architecting high-performance applications to leading engineering teams of up to 10 people.
 
-*   🌍  I work remotely.
+### **Core Expertise**
+
+* **Software Engineering:** Building scalable, top-quality products with a focus on modular architecture and optimized performance.
+* **Data Engineering:** Transforming complex data streams into strategic decision-making tools through advanced modeling and processing.
+* **Technical Leadership:** Bridging the gap between complex technology and business needs. Having trained over 100 professionals, I excel at fostering technical growth and ensuring seamless end-user adoption.
+* **Strategic Management:** Holder of an **Executive Master’s in Leadership**, I am dedicated to turning technical challenges into collective successes.
+
+### **Connect with me**
+
 *   🖥️ See my portfolio at [picassohouessou.com](https://picassohouessou.com)
-*   ✉️  You can contact me at [houessoupicasso@yahoo.fr](mailto:houessoupicasso@yahoo.fr)
-*   🤝  I love sharing content about Freelance, remote work on my [blog](https://bloggux.com)
+*   ✉️ See my LinkedIn at https://www.linkedin.com/in/picassohouessou
 
 ### Skills
 
