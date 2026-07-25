@@ -3,7 +3,7 @@ Hello 👋 My name is Picasso
 
 ### **Software Engineer | Data Engineer | Technical Leader**
 
-I am a results-driven professional with **4 years of experience**  at the intersection of technical excellence, leadership, and training. My background spans the entire development lifecycle, from architecting high-performance applications to leading engineering teams of up to 10 people.
+I am a results-driven professional with **5 years of experience**  at the intersection of technical excellence, leadership, and training. My background spans the entire development lifecycle, from architecting high-performance applications to leading engineering teams of up to 10 people.
 
 ### **Core Expertise**
 
